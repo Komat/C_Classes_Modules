@@ -9,7 +9,7 @@
 #ifndef MODULES_MODULES_H
 #define MODULES_MODULES_H
 
-#include "Module/delay/mod_delay.h"
-#include "Module/random/mod_random.h"
+#include "Modules/delay/mod_delay.h"
+#include "Modules/random/mod_random.h"
 
 #endif //MODULES_MODULES_H
